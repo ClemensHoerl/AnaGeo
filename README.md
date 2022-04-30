@@ -16,8 +16,9 @@ AnaGeo (kurz für *analytische Geometrie*) ist ein einfaches in *Casio BASIC* ge
 ## Instalation (Classpad II) ##
 * Am Taschenrechner die Anwendung *Main* öffnen, auf das Zahnrad klicken und den *Variablenmanager* öffnen
 * Auf *Edit* klicken, *Ordner erstellen* auswählen und *"AnaGeo"* eingeben
-* Am PC die Datein dieses Repositories herunderladen
-* Den Taschenrechner per USB mit dem PC verbinden und "USB Massenspeicher" auswählen
+* Am Computer die Datein dieses Repositories herunderladen 
+* Die Datein *README.md* und LICENCE.md löschen
+* Den Taschenrechner per USB mit dem Computer verbinden und "USB Massenspeicher" auswählen
 * Die Datein dieses Repositories im Ordner *"Picture"* des Taschenrechners ablegen
 * Die Verbindung zum Taschenrechner trennen
 * Am Taschenrechner die Anwendung *System* öffnen, den Reiter *Storage* auswählen, hier auf *Storage-Ansicht/Imp.* klicken und mit *Auswählen* bestätigen

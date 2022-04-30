@@ -34,7 +34,7 @@ AnaGeo (kurz für *analytische Geometrie*) ist ein einfaches in *Casio BASIC* ge
 Zur Zeit ist AnaGeo leider nur in Deutsch verfügbar. Wenn du über die nötige Fachsprache verfügst und AnaGeo übersetzen möchtest, erstelle gerne ein Issue und lass es mich wissen.
 
 ## Danke ##
-* dem Autor der ersten Version
-* M. Rosenkranz für die Hilfe bei der Überarbeitung
+* an den Autor der ersten Version
+* an M. Rosenkranz für die Hilfe bei der Überarbeitung
 
 

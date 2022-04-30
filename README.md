@@ -17,7 +17,7 @@ AnaGeo (kurz für *analytische Geometrie*) ist ein einfaches in *Casio BASIC* ge
 * Am Taschenrechner die Anwendung *Main* öffnen, auf das Zahnrad klicken und den *Variablenmanager* öffnen
 * Auf *Edit* klicken, *Ordner erstellen* auswählen und *"AnaGeo"* eingeben
 * Am Computer die Datein dieses Repositories herunderladen 
-* Die Datein *README.md* und LICENCE.md löschen
+* Die Datein *README.md* und LICENSE löschen
 * Den Taschenrechner per USB mit dem Computer verbinden und "USB Massenspeicher" auswählen
 * Die Datein dieses Repositories im Ordner *"Picture"* des Taschenrechners ablegen
 * Die Verbindung zum Taschenrechner trennen

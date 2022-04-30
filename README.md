@@ -1,6 +1,6 @@
 AnaGeo
 ======
-AnaGeo (kurz für analytische Geometrie) ist ein einfaches in *Casio BASIC* geschirebenes Programm für das Casio Classpad II und andere kompartible Casio Taschenrechner. AnaGeo ermöglicht schnelle und einfache Berechnungen der analytischen Geometrie.
+AnaGeo (kurz für *analytische Geometrie*) ist ein einfaches in *Casio BASIC* geschirebenes Programm für das Casio Classpad II und andere kompartible Casio Taschenrechner. AnaGeo ermöglicht schnelle und einfache Berechnungen der analytischen Geometrie.
 ## Funktionen ##
 * Ebenen aus drei Punkten berechnen
 * Ebenen aus der Parameterform in Parameterfreie-Form umwandeln

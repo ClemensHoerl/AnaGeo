@@ -31,9 +31,12 @@ AnaGeo (kurz für *analytische Geometrie*) ist ein einfaches in *Casio BASIC* ge
 * Den Ordner *"AnaGeo"* und das Programm mit dem Namen *AnaGeo* auswählen
 * AnaGeo mit der Start-Taste ▶ ausführen
 
+Hinweis: Die Programme `EGl3P`, `EGloPara`, `LBEE`, `LBEG`, `LBEP`, `LBGG`, `LBGP` und `dreieck` müssen nie einzeln ausgeführt werden, sondern werden von der Hauptanwendung AnaGeo aufgerufen.
+
 ## Getestete Geräte ##
 * Casio Classpad II (FX-CP400)
-* *Wenn du bestätigen kannst, dass AnaGeo auf einem anderen Taschenrechner läuft, erstelle gerne ein Issue.*
+
+Wenn du bestätigen kannst, dass AnaGeo auf einem anderen Taschenrechner läuft, erstelle gerne ein Issue.
 
 ## Sprachen ##
 Zur Zeit ist AnaGeo leider nur in Deutsch verfügbar. Wenn du über die nötige Fachsprache verfügst und AnaGeo übersetzen möchtest, erstelle gerne ein Issue und lass es mich wissen.

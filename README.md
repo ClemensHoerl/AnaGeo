@@ -26,6 +26,11 @@ AnaGeo (kurz für *analytische Geometrie*) ist ein einfaches in *Casio BASIC* ge
 * Den Ordner *"Picture"* mit einem Doppelklick öffnen und die 9 Datein auswählen
 * *Import* klicken und aus der Liste *"AnaGeo"* als Ordner wählen, anschließend mit *Ok* bestätigen
 
+## Ausführen ##
+* Am Taschenrechner die Anwendung *Programm* öffnen
+* Den Ordner *"AnaGeo"* und das Programm mit dem Namen *AnaGeo* auswählen
+* AnaGeo mit der Start-Taste ▶ ausführen
+
 ## Getestete Geräte ##
 * Casio Classpad II (FX-CP400)
 * *Wenn du bestätigen kannst, dass AnaGeo auf einem anderen Taschenrechner läuft, erstelle gerne ein Issue.*

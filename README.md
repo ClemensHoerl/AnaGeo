@@ -28,7 +28,7 @@ AnaGeo (kurz für *analytische Geometrie*) ist ein einfaches in *Casio BASIC* ge
 
 ## Getestete Geräte ##
 * Casio Classpad II (FX-CP400)
-* Wenn du bestätigen kannst, dass AnaGeo auf einem anderen Taschenrechner läuft, erstelle gerne ein Issue.
+* *Wenn du bestätigen kannst, dass AnaGeo auf einem anderen Taschenrechner läuft, erstelle gerne ein Issue.*
 
 ## Sprachen ##
 Zur Zeit ist AnaGeo leider nur in Deutsch verfügbar. Wenn du über die nötige Fachsprache verfügst und AnaGeo übersetzen möchtest, erstelle gerne ein Issue und lass es mich wissen.

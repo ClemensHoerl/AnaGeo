@@ -11,9 +11,6 @@ AnaGeo (kurz für *analytische Geometrie*) ist ein einfaches in *Casio BASIC* ge
 * Lagebeziehung Gerade-Punkt
 * Dreiecksberechnung aus drei Punkten
 
-## Screenshots ##
-*werden ergänzt*
-
 ## Installation (Classpad II) ##
 * Am Taschenrechner die Anwendung *Main* öffnen, auf das Zahnrad klicken und den *Variablenmanager* öffnen
 * Auf *Edit* klicken, *Ordner erstellen* auswählen und *"AnaGeo"* eingeben
